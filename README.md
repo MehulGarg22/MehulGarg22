@@ -1,11 +1,13 @@
-
+<img align="right" align="top" alt="anaconda" width="500px" src="Untitled design (1).svg"/>
 ### Hi there, I'm Mehul Garg👋
+
 
 - 🔭 I’m currently working on ... Open Source Projects
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Projects
 - 💬 Ask me about ... Anything
 - 🥅 2020 Goals: Contribute more to Open Source Projects and Learn New Tech-Stack.
+
 
 
 ### Connect with me:
@@ -42,6 +44,8 @@
 <br />
 <br />
 
+
 [linkedin]: https://www.linkedin.com/in/mehul104/
 [twitter]: https://twitter.com/Mehulgarg104
 [instagram]: https://www.instagram.com/mehulgarg104/
+
