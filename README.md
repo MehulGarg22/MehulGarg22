@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on ... Open Source Projects
 - 🌱 I’m currently learning ... Everything
-- 👯 I’m looking to collaborate on ... Project
+- 👯 I’m looking to collaborate on ... Projects
 - 💬 Ask me about ... Anything
-- 🥅 2020 Goals: Contribute more to Open Source projects and Learn New Tech-Stack.
+- 🥅 2020 Goals: Contribute more to Open Source Projects and Learn New Tech-Stack.
 
 
 ### Connect with me:
