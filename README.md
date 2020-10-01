@@ -1,3 +1,6 @@
+<img align="right" alt="bootstrap" width="300px" src="MyAvtaar.png"/>
+
+
 ### Hi there, I'm Mehul Garg👋
 
 
