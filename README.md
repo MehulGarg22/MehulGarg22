@@ -5,6 +5,7 @@
 
 
 - 🔭 I’m currently working on ... Open Source Projects
+- ❤️ I Like to ...... Read alot (Either it's E-Books, Articles, Books)
 - 🌱 I’m currently learning ... Everything
 - 👯 I’m looking to collaborate on ... Projects
 - 💬 Ask me about ... Anything
