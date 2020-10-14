@@ -15,10 +15,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MehulGarg | LinkedIn" width="40px" src="LinkedinLogo.svg" />][linkedin]
-[<img align="left" alt="MehulGarg | Twitter" width="40px" src="TwitterLogo.svg" />][twitter]
-[<img align="left" alt="MehulGarg | Instagram" width="40px" src="InstagramLogo.svg" />][instagram]
-
+[<img align="left" alt="MehulGarg | LinkedIn" width="38px" src="LinkedinLogo.svg" />][linkedin]
+[<img align="left" alt="MehulGarg | Twitter" width="38px" src="TwitterLogo.svg" />][twitter]
+[<img align="left" alt="MehulGarg | Instagram" width="38px" src="InstagramLogo.svg" />][instagram]
+[<img align="left" alt="MehulGarg | Dev" width="37px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][Dev]
 <br/>
 <br/>
 
@@ -53,4 +53,4 @@
 [linkedin]: https://www.linkedin.com/in/mehul104/
 [twitter]: https://twitter.com/Mehulgarg104
 [instagram]: https://www.instagram.com/mehulgarg104/
-
+[Dev]: https://dev.to/mehul104/
