@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Mehul Garg 👋</h1>
+<h2 align="center">Hi there, I'm Mehul Garg 👋</h2>
 
 <img align="right" alt="My Avtaar" width="300px" src="MyAvtaar.png"/>
 
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="python" width="30px" src="https://img.icons8.com/nolan/64/python.png"/>
