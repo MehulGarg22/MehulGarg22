@@ -1,24 +1,25 @@
+<h2 align="center">Hi there, I'm Mehul Garg 👋</h1>
 
-<img align="right" alt="bootstrap" width="300px" src="MyAvtaar.png"/>
+<img align="right" alt="My Avtaar" width="300px" src="MyAvtaar.png"/>
 
-### Hi there, I'm Mehul Garg👋
-
-
-- 🔭 I’m currently working on ... Open Source Projects
-- ❤️ I Like to ...... Read alot (Either it's E-Books, Articles, Books)
-- 🌱 I’m currently learning ... Everything
-- 👯 I’m looking to collaborate on ... Projects
-- 💬 Ask me about ... Anything
-- 🥅 2020 Goals: Contribute more to Open Source Projects and Learn New Tech-Stack.
+- 🔭 I’m currently working on ... **Open Source Projects**
+- ❤️ I Like to ...... **Read alot (Either it's E-Books, Articles, Books)**
+- 🌱 I’m currently learning ..... **Everything**
+- 👯 I’m looking to collaborate on ..... **Projects**
+- 💬 Ask me about ..... **Anything**
+- 🥅 **2020 Goals: Contribute more to Open Source Projects and Learn New Tech-Stack.**
 
 
+>Open to Collaborate 
 
-### Connect with me:
 
-[<img align="left" alt="MehulGarg | LinkedIn" width="38px" src="LinkedinLogo.svg" />][linkedin]
-[<img align="left" alt="MehulGarg | Twitter" width="38px" src="TwitterLogo.svg" />][twitter]
-[<img align="left" alt="MehulGarg | Instagram" width="38px" src="InstagramLogo.svg" />][instagram]
-[<img align="left" alt="MehulGarg | Dev" width="37px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][Dev]
+## Connect with me:
+
+
+[<img align="left" alt="MehulGarg | LinkedIn" width="30px" src="LinkedinLogo.svg" />][linkedin]
+[<img align="left" alt="MehulGarg | Twitter" width="30px" src="TwitterLogo.svg" />][twitter]
+[<img align="left" alt="MehulGarg | Instagram" width="30px" src="InstagramLogo.svg" />][instagram]
+[<img align="left" alt="MehulGarg | Dev" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][Dev]
 <br/>
 <br/>
 
