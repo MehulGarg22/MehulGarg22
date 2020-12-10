@@ -3,7 +3,7 @@
 <img align="right" alt="My Avtaar" width="300px" src="MyAvtaar.png"/>
 
 - 🔭 I’m currently working on ... **Open Source Projects**
-- ❤️ I Like to ...... **Read alot (Either it's E-Books, Articles, Books)**
+- ❤️ I Like to ...... **Read alot (Either it's E-Books, Articles, Audio-Books)**
 - 🌱 I’m currently learning ..... **Everything**
 - 👯 I’m looking to collaborate on ..... **Projects**
 - 💬 Ask me about ..... **Anything**
@@ -30,7 +30,7 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img  align="left" alt="bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="redux" width="30px" src="https://img.icons8.com/color/48/000000/redux.png"/>
