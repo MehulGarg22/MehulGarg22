@@ -51,7 +51,11 @@
 <br />
 <br />
 
+## Some of the Projects link
+* [Trishul "The Tech_carnival" Website]
+
 [linkedin]: https://www.linkedin.com/in/mehul104/
 [twitter]: https://twitter.com/Mehulgarg104
 [instagram]: https://www.instagram.com/mehulgarg104/
 [Dev]: https://dev.to/mehul104/
+[Trishul "The Tech_carnival" Website]: https://www.trishultechfest.live/
