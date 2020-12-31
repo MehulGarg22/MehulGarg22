@@ -53,9 +53,11 @@
 
 ## Some of the Projects link
 * [Trishul "The Tech_carnival" Website]
+* [Color Selector for Websites]
 
 [linkedin]: https://www.linkedin.com/in/mehul104/
 [twitter]: https://twitter.com/Mehulgarg104
 [instagram]: https://www.instagram.com/mehulgarg104/
 [Dev]: https://dev.to/mehul104/
 [Trishul "The Tech_carnival" Website]: https://www.trishultechfest.live/
+[Color Selector for Websites]: https://mehulgarg22.github.io/Color_Selector/
