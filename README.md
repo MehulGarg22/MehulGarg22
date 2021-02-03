@@ -54,6 +54,7 @@
 ## Some of the Projects link
 * [Trishul "The Tech_carnival" Website]
 * [Color Selector for Websites]
+* [Cricket Fantasy Game]
 
 [linkedin]: https://www.linkedin.com/in/mehul104/
 [twitter]: https://twitter.com/Mehulgarg104
@@ -61,3 +62,4 @@
 [Dev]: https://dev.to/mehul104/
 [Trishul "The Tech_carnival" Website]: https://www.trishultechfest.live/
 [Color Selector for Websites]: https://mehulgarg22.github.io/Color_Selector/
+[Cricket Fantasy Game]: https://github.com/MehulGarg22/Cricket_Fantasy_Game/
