@@ -3,10 +3,10 @@
 <img align="right" alt="My Avtaar" width="300px" src="MyAvtaar.png"/>
 
 - 🔭 I’m currently working on ... **Open Source Projects**
-- ❤️ I Like to ...... **Read alot (Either it's E-Books, Articles, Audio-Books)**
-- 🌱 I’m currently learning ..... **Everything**
-- 👯 I’m looking to collaborate on ..... **Projects**
-- 💬 Ask me about ..... **Anything**
+- ❤️ I Like to ...... **Consistently learn more about Finance, Economics**
+- 🌱 I’m currently learning ..... **never ending Software Development Tech**
+- 👯 I’m looking to collaborate on ..... **Techy-Projects**
+- 💬 Ask me about ..... **Software Development, Web-Development and Finance**
 - 🥅 **2020 Goals: Contribute more to Open Source Projects and Learn New Tech-Stack.**
 
 
