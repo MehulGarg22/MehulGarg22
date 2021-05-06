@@ -9,9 +9,6 @@
 - 💬 Ask me about ..... **Software Development, Web-Development and Finance**
 - 🥅 **2020 Goals: Contribute more to Open Source Projects and Learn New Tech-Stack.**
 
->### My Portfolio Website
-
-
 
 
 ## Connect with me:
@@ -53,6 +50,7 @@
 <br />
 
 ## Some of the Projects link
+* [My Portfolio Website]
 * [Trishul "The Tech_carnival" Website]
 * [Color Selector for Websites]
 * [Cricket Fantasy Game]
