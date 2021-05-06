@@ -57,7 +57,7 @@
 * [Star Trooper API]
 
 [linkedin]: https://www.linkedin.com/in/mehul104/
-[twitter]: https://twitter.com/Mehulgarg104
+[twitter]: https://twitter.com/MehulGarg22
 [instagram]: https://www.instagram.com/mehulgarg104/
 [Dev]: https://dev.to/mehul104/
 [Trishul "The Tech_carnival" Website]: https://www.trishultechfest.live/
