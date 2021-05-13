@@ -65,3 +65,5 @@
 [Cricket Fantasy Game]: https://github.com/MehulGarg22/Cricket_Fantasy_Game/
 [Star Trooper API]: https://mehulgarg22.github.io/Star-Troopers/
 [My Portfolio Website]: https://www.mehulgarg.me/
+
+![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehulGarg22&theme=dark&show_icons=true)
