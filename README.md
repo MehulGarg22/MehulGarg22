@@ -67,3 +67,5 @@
 [My Portfolio Website]: https://www.mehulgarg.me/
 
 ![MG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehulGarg22&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehulGarg22&layout=compact&theme=dark)](https://github.com/MehulGarg22/github-readme-stats)
+
