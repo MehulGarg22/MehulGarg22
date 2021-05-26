@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Mehul Garg 👋</h2>
+<h2 align="center">Hi there, I'm <a href="https://www.mehulgarg.me/">Mehul Garg</a> 👋</h2>
 
 <img align="right" alt="My Avtaar" width="300px" src="MyAvtaar.png"/>
 
