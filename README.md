@@ -61,7 +61,7 @@
 [instagram]: https://www.instagram.com/mehulgarg104/
 [Dev]: https://dev.to/mehul104/
 [Trishul "The Tech_carnival" Website]: https://www.trishultechfest.live/
-[Color Selector for Websites]: https://mehulgarg22.github.io/Color_Selector/
+[Color Selector for Websites]: https://colorpiker.netlify.app/
 [Cricket Fantasy Game]: https://github.com/MehulGarg22/Cricket_Fantasy_Game/
 [Star Trooper API]: https://mehulgarg22.github.io/Star-Troopers/
 [My Portfolio Website]: https://www.mehulgarg.me/
