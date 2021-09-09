@@ -31,6 +31,7 @@
 <img  align="left" alt="bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="npm" width="30px" src="postman-icon.png"/>
 <img align="left" alt="redux" width="30px" src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img align="left" alt="npm" width="30px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
