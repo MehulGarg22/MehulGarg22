@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ... **Open Source Projects.**
 - ❤️ I Like to ...... **Consistently learn more about Finance, Economics.**
 - 🌱 I’m currently learning ..... **never ending Software Development Tech.**
-- 👯 I’m looking to collaborate on ..... **Techy-Projects.**
+- 👯 I’m looking to collaborate on ...... **Techy-Projects.**
 - 💬 Ask me about ...... **Software Development, Web-Development and Finance.**
 - 🥅 **2020 Goals: Contribute more to Open Source Projects and Learn New Tech-Stack.**
 
