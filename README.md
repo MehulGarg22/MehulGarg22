@@ -23,9 +23,6 @@
 
 ## Languages and Tools:
 
-<a href="https://nodejs.org/" title="Node.js">
-  <img align="left" alt="Node.js" width="30px" src="https://mehulgarg.netlify.app/static/media/Nodejs.b508473ad71a31ce2fae.png"/>
-</a>
 <a href="https://www.postgresql.org/" title="PostgreSQL">
   <img align="left" alt="PostgreSQL" width="30px" src="https://mehulgarg.netlify.app/static/media/PostgreSQL.32418160b1c2f2a4b893.png"/>
 </a>
