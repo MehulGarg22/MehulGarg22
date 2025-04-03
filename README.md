@@ -23,6 +23,9 @@
 
 ## Languages and Tools:
 
+<a href="https://nodejs.org/" title="Node.js">
+  <img align="left" alt="Node.js" width="30px" src="https://mehulgarg.netlify.app/static/media/Nodejs.b508473ad71a31ce2fae.png"/>
+</a>
 <a href="https://www.postgresql.org/" title="PostgreSQL">
   <img align="left" alt="PostgreSQL" width="30px" src="https://mehulgarg.netlify.app/static/media/PostgreSQL.32418160b1c2f2a4b893.png"/>
 </a>
@@ -65,17 +68,11 @@
 <a href="https://react.dev/" title="React">
   <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </a>
-<a href="https://nodejs.org/" title="Node.js">
-  <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</a>
 <a href="https://www.npmjs.com/" title="npm">
 <img align="left" alt="npm" width="30px" src="postman-icon.png"/>
 </a>
 <a href="https://redux.js.org/" title="Redux">
 <img align="left" alt="redux" width="30px" src="https://img.icons8.com/color/48/000000/redux.png"/>
-</a>
-<a href="https://www.npmjs.com/" title="NPM">
-<img align="left" alt="npm" width="30px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 </a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code">
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -129,31 +126,6 @@
 <img align="left" alt="S3" width="30px" src="https://mehulgarg.netlify.app/static/media/Simple%20Storage%20Service.dfc47c8f737823a3a520.png"/>
 </a>
 
-
-<a href="https://nodejs.org/" title="Node.js">
-  <img align="left" alt="Node.js" width="30px" src="https://mehulgarg.netlify.app/static/media/Nodejs.b508473ad71a31ce2fae.png"/>
-</a>
-<a href="https://www.postgresql.org/" title="PostgreSQL">
-  <img align="left" alt="PostgreSQL" width="30px" src="https://mehulgarg.netlify.app/static/media/PostgreSQL.32418160b1c2f2a4b893.png"/>
-</a>
-<a href="https://www.mongodb.com/" title="MongoDB">
-  <img align="left" alt="MongoDB" width="30px" src="https://mehulgarg.netlify.app/static/media/MongoDb.14ed359ee5c57fb8eae0.png"/>
-</a>
-<a href="https://github.com/" title="GitHub">
-  <img align="left" alt="GitHub" width="30px" src="https://mehulgarg.netlify.app/static/media/github.abb38ccbc752abe80b5c.png"/>
-</a>
-<a href="https://react-bootstrap.github.io/" title="React Bootstrap">
-  <img align="left" alt="React Bootstrap" width="30px" src="https://mehulgarg.netlify.app/static/media/react_bootstrap.958e7d840a62824b0702aa1b181b51d9.svg"/>
-</a>
-<a href="https://ant.design/" title="Ant Design">
-  <img align="left" alt="Ant Design" width="30px" src="https://mehulgarg.netlify.app/static/media/ant_design_logo.9bc8753afce8642ac89ffd972d6c90cd.svg"/>
-</a>
-<a href="https://www.chartjs.org/" title="Chart.js">
-  <img align="left" alt="Chart.js" width="30px" src="https://mehulgarg.netlify.app/static/media/chartjs.8a8260f65c7ffe9e6f4f.ico"/>
-</a>
-<a href="https://material-ui.com/" title="Material-UI">
-  <img align="left" alt="Material-UI" width="30px" src="https://mehulgarg.netlify.app/static/media/marteialUI.1ccf757bb7d0a367a1282370f75987c2.svg"/>
-</a>
 
 
 
