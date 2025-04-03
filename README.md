@@ -44,6 +44,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/material/48/000000/console.png"/>
 <img align="left" alt="microsoft-office" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/>
 <img align="left" alt="anaconda" width="30px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+<img align="left" alt="anaconda" width="30px" src="https://aws-icons.com/icons/lambda"/>
 
 <br />
 <br />
@@ -57,10 +58,8 @@
 * [Cricket Fantasy Game]
 * [Star Trooper API]
 
-[linkedin]: https://www.linkedin.com/in/mehul104/
+[linkedin]: https://www.linkedin.com/in/mehulgarg22/
 [twitter]: https://twitter.com/MehulGarg22
-[instagram]: https://www.instagram.com/mehulgarg104/
-[Dev]: https://dev.to/mehul104/
 [Trishul "The Tech_carnival" Website]: https://www.trishultechfest.live/
 [Color Selector for Websites]: https://colorpiker.netlify.app/
 [Cricket Fantasy Game]: https://github.com/MehulGarg22/Cricket_Fantasy_Game/
