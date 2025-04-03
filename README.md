@@ -21,10 +21,15 @@
 <br/>
 <br/>
 
+## My Skills-
+
+<br/>
+<br/>
+
 <table>
   <tr>
     <th>Category</th>
-    <th>Images</th>
+    <th>Skill</th>
   </tr>
   <tr>
     <td>Languages</td>
@@ -155,9 +160,6 @@
   </tr>
 </table>
 
-
-<br />
-<br />
 <br />
 <br />
 
