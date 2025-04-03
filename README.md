@@ -40,6 +40,9 @@
   <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
 
+<br/>
+<br/>
+
 ## Frameworks/Libraries
 
 
@@ -65,7 +68,8 @@
   <img align="left" alt="Chart.js" width="30px" src="https://mehulgarg.netlify.app/static/media/chartjs.8a8260f65c7ffe9e6f4f.ico"/>
 </a>
 
-
+<br/>
+<br/>
 
 ## Databases
 
@@ -80,6 +84,8 @@
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </a>
 
+<br/>
+<br/>
 
 ## Tools/Platforms
 
@@ -117,6 +123,10 @@
 <a href="https://www.npmjs.com/" title="npm">
 <img align="left" alt="npm" width="30px" src="postman-icon.png"/>
 </a>
+
+
+<br/>
+<br/>
 
 
 ## AWS Services
