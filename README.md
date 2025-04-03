@@ -47,6 +47,15 @@
 <img align="left" alt="lambda" width="30px" src="https://mehulgarg.netlify.app/static/media/Lambda.ec930be259d2440ec095.png"/>
 
 
+<img align="left" alt="dynamodb" width="30px" src="https://mehulgarg.netlify.app/static/media/DynamoDB.b557bc037b614b47e5b7.png"/>
+<img align="left" alt="Api Gateway" width="30px" src="https://mehulgarg.netlify.app/static/media/API%20Gateway.3e9a9cb29df48ff962c9.png"/>
+<img align="left" alt="AWS IAM" width="30px" src="https://mehulgarg.netlify.app/static/media/IAM%20Identity%20Center.2c1f26aeba116087fc98.png"/>
+
+<img align="left" alt="AWS Amplify" width="30px" src="https://mehulgarg.netlify.app/static/media/Amplify.656bd852b8d8edab0029.png"/>
+<img align="left" alt="Codecommit" width="30px" src="https://mehulgarg.netlify.app/static/media/CodeCommit.82b17550f6e3335a0b20.png"/>
+<img align="left" alt="Cognito" width="30px" src="https://mehulgarg.netlify.app/static/media/Cognito.d880bbf29be67fa3ddff.png"/>
+<img align="left" alt="S3" width="30px" src="https://mehulgarg.netlify.app/static/media/Simple%20Storage%20Service.dfc47c8f737823a3a520.png"/>
+
 <br />
 <br />
 <br />
