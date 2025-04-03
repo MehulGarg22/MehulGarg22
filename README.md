@@ -23,7 +23,7 @@
 
 ## Languages
 
-```html
+
 <a href="[https://isocpp.org/](https://isocpp.org/)" title="C++">
   <img align="left" alt="C++" width="30px" src="[https://img.icons8.com/color/48/000000/c-plus-plus-logo.png](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)"/>
 </a>
@@ -39,11 +39,11 @@
 <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" title="JavaScript">
   <img align="left" alt="JavaScript" width="30px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)" />
 </a>
-```
+
 
 ## Frameworks/Libraries
 
-```html
+
 <a href="[https://react.dev/](https://react.dev/)" title="React">
   <img align="left" alt="React" width="30px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)" />
 </a>
@@ -65,11 +65,11 @@
 <a href="[https://www.chartjs.org/](https://www.chartjs.org/)" title="Chart.js">
   <img align="left" alt="Chart.js" width="30px" src="[https://mehulgarg.netlify.app/static/media/chartjs.8a8260f65c7ffe9e6f4f.ico](https://mehulgarg.netlify.app/static/media/chartjs.8a8260f65c7ffe9e6f4f.ico)"/>
 </a>
-```
+
 
 ## Databases
 
-```html
+
 <a href="[https://www.postgresql.org/](https://www.postgresql.org/)" title="PostgreSQL">
   <img align="left" alt="PostgreSQL" width="30px" src="[https://mehulgarg.netlify.app/static/media/PostgreSQL.32418160b1c2f2a4b893.png](https://mehulgarg.netlify.app/static/media/PostgreSQL.32418160b1c2f2a4b893.png)"/>
 </a>
@@ -79,11 +79,10 @@
 <a href="[https://www.mysql.com/](https://www.mysql.com/)" title="MySQL">
 <img align="left" alt="MySQL" width="30px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png)" />
 </a>
-```
 
 ## Tools/Platforms
 
-```html
+
 <a href="[https://nodejs.org/](https://nodejs.org/)" title="Node.js">
   <img align="left" alt="Node.js" width="30px" src="[https://mehulgarg.netlify.app/static/media/Nodejs.b508473ad71a31ce2fae.png](https://mehulgarg.netlify.app/static/media/Nodejs.b508473ad71a31ce2fae.png)"/>
 </a>
@@ -117,11 +116,11 @@
 <a href="[https://www.npmjs.com/](https://www.npmjs.com/)" title="npm">
 <img align="left" alt="npm" width="30px" src="postman-icon.png"/>
 </a>
-```
+
 
 ## Cloud Services
 
-```html
+
 <a href="[https://aws.amazon.com/lambda/](https://aws.amazon.com/lambda/)" title="Lambda">
 <img align="left" alt="lambda" width="30px" src="[https://mehulgarg.netlify.app/static/media/Lambda.ec930be259d2440ec095.png](https://mehulgarg.netlify.app/static/media/Lambda.ec930be259d2440ec095.png)"/>
 </a>
